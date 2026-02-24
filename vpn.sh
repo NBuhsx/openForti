@@ -1,4 +1,4 @@
 #!/bin/zsh
-cd ~/Code/openForti
+cd ~/code/openForti
 source venv/bin/activate
-sudo venv/bin/python3.11 main.py "$@"
+sudo venv/bin/python main.py "$@"
